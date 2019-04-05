@@ -4,7 +4,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  @my_two_array = Array.new[1,3]
+  @my_two_array = Array.new(2)
   retun @my_two_array
 end
 
