@@ -27,3 +27,6 @@ def first_element_with_array_methods(x)
   first_country = x.first
   return first_country
 end
+
+def last_element_with_array_methods(x)
+  
