@@ -13,3 +13,7 @@ def first_element(x)
   return my_first_element
 end
 
+ def first_element(x)
+  my_first_element = x.(2)
+  return my_first_element
+end 
