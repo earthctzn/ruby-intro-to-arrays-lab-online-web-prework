@@ -34,5 +34,5 @@ def last_element_with_array_methods(x)
 end
 
 def length_of_array(x)
-  length = 
+  length = x.length
   
