@@ -17,3 +17,8 @@ end
   my_third_element = x[2]
   return my_third_element
 end 
+
+def last_element(x)
+  my_last_element = x.first
+  return my_last_element
+end
