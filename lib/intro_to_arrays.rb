@@ -23,4 +23,7 @@ def last_element(x)
   return my_last_element
 end
 
-first_element_with_array_methods
+def first_element_with_array_methods(x)
+  first_element_with_array_methods = x.first
+  return first_element_with_array_methods
+end
