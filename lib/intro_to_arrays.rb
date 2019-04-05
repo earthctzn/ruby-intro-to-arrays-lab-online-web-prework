@@ -9,7 +9,7 @@ def array_with_two_elements
 end
 
 def first_element(x)
-  my_first_element = x.arr[0]
+  my_first_element = x[0]
   puts my_first_element
 end
 
