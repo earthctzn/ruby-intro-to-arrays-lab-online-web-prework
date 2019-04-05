@@ -8,9 +8,8 @@ def array_with_two_elements
   return @my_two_array
 end
 
-def first_element(taylor_swift)
-  @taylor_swift = Array.new("Welcome to New York", "Blank Space", "Style", "Out of The Woods")
-  my_first_element = arr[0]
+def first_element(x)
+  my_first_element = x.arr[0]
   puts my_first_element
 end
 
