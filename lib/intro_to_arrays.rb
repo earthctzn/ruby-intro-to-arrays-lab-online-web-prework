@@ -5,6 +5,6 @@ end
 
 def array_with_two_elements
   @my_two_array = Array.new(2)
-  retun @my_two_array
+  return @my_two_array
 end
 
