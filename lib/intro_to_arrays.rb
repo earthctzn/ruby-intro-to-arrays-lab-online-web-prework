@@ -35,4 +35,7 @@ end
 
 def length_of_array(x)
   length = x.length
+  return length
+end
+
   
