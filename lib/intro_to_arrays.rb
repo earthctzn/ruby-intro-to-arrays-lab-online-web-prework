@@ -10,7 +10,7 @@ end
 
 def first_element(x)
   my_first_element = x.first
-  puts my_first_element
+  return my_first_element
 end
 
   
