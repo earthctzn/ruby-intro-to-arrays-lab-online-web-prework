@@ -19,6 +19,6 @@ end
 end 
 
 def last_element(x)
-  my_last_element = x.first
+  my_last_element = x.last
   return my_last_element
 end
