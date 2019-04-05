@@ -3,4 +3,8 @@ def instantiate_new_array
   return @my_new_array
 end
 
-def 
+def array_with_two_elements
+  @my_two_array = Array.new[1,3]
+  retun @my_two_array
+end
+
