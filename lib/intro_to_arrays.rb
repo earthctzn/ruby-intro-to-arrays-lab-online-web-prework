@@ -13,7 +13,7 @@ def first_element(x)
   return my_first_element
 end
 
- def first_element(x)
+ def third_element(x)
   my_third_element = x.(2)
   return my_third_element
 end 
