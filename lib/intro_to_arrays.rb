@@ -14,6 +14,6 @@ def first_element(x)
 end
 
  def first_element(x)
-  my_first_element = x.(2)
-  return my_first_element
+  my_third_element = x.(2)
+  return my_third_element
 end 
