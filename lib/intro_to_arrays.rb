@@ -24,6 +24,6 @@ def last_element(x)
 end
 
 def first_element_with_array_methods(x)
-  first_element_with_array_methods = x.first
+  first_country = x.first
   return first_element_with_array_methods
 end
