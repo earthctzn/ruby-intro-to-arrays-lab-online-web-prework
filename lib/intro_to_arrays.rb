@@ -14,6 +14,6 @@ def first_element(x)
 end
 
  def third_element(x)
-  my_third_element = x.(2)
+  my_third_element = x[2]
   return my_third_element
 end 
